@@ -1,0 +1,19 @@
+{"profile":[{
+  "img":"iphone-13.jpg",
+  "name":"Navyasri",
+  "pin":525,
+  "branch":"CSE"
+},
+{
+    "img":"Mi 11x.png",
+    "name":"Harshitha",
+    "pin":535,
+    "branch":"CSM"
+},
+{
+    "img":"iphone-13.jpg",
+    "name":"Sobhrani",
+    "pin":522,
+    "branch":"CS-AI"
+}]
+}
